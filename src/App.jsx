@@ -5,7 +5,7 @@ const BRAND_NAME = "KELP";
 const BRAND_SUBTITLE = "A part of Polymertrade Group";
 const HERO_TITLE = "Buy and sell waste. Faster, smarter, greener.";
 const HERO_COPY =
-  "YOY YO YO KELP turns a traditionally manual market into an instant digital marketplace. List material, find verified counterparties and move from waste to value without days of phone calls.";
+  "KELP turns a traditionally manual market into an instant digital marketplace. List material, find verified counterparties and move from waste to value without days of phone calls.";
 
 function Icon({ name, className = "h-5 w-5" }) {
   const common = {
